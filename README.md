@@ -1,2 +1,2 @@
 # Codeacademy_proj
-These are the collections from my Codecademy course
+These are the practice projects from codecademy course
